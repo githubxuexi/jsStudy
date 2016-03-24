@@ -1,0 +1,65 @@
+p {
+  color: #666;
+  font-size: 12px;
+  font-family: sans-serif;
+}
+span {
+  color: #414141;
+  font-size: 14px;
+  font-family: sans-serif;
+}
+#header {
+  text-align: center;
+}
+#header #tab {
+  text-align: center;
+}
+#header #tab ul {
+  list-style: none;
+}
+#header #tab ul li {
+  display: inline;
+}
+#header #con p {
+  text-align: left;
+  disply: block;
+  padding-left: 500px;
+}
+#header #con #con2,
+#header #con #con3 {
+  display: none;
+}
+#container {
+  text-align: center;
+}
+#container .cc {
+  color: #ff7843;
+}
+#container #sp span {
+  font-size: 14px;
+  color: #414141;
+}
+#container #sone {
+  float: left;
+}
+#container #sone .one {
+  padding-left: 350px;
+}
+#footer {
+  text-align: center;
+}
+#footer span {
+  font-size: 14px;
+  color: #414141;
+}
+#footer div {
+  padding-left: 350px;
+}
+#footer div p {
+  text-align: left;
+}
+#dev {
+  align: center;
+  width: 500px;
+  color: #eaeaea;
+}
